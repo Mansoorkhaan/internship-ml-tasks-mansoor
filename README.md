@@ -1,8 +1,6 @@
 # internship-ml-tasks-mansoor
 
-Internship tasks
-
- **Internship ML Tasks Submission**
+ **Internship Machine Learning Tasks**
  
 This repository contains solutions to 5 internship machine learning tasks. Each task includes data loading, EDA, model training, evaluation, and insights.
 
