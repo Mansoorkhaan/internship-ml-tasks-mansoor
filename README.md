@@ -1,8 +1,13 @@
 # internship-ml-tasks-mansoor
+
 Internship tasks
+
  **Internship ML Tasks Submission**
+ 
 This repository contains solutions to 5 internship machine learning tasks. Each task includes data loading, EDA, model training, evaluation, and insights.
+
   **Task List**
+  
  **1. Iris Dataset Visualization**
 - Objective: Explore and visualize relationships between flower features
 - Model: None (EDA only)
